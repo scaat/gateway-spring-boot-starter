@@ -1,0 +1,2 @@
+org.springframework.cloud.gateway.config.GatewayAutoConfiguration=\
+autoconfigure.com.github.scaat.gateway.GatewayAutoConfiguration
