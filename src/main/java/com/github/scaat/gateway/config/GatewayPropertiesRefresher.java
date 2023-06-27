@@ -15,7 +15,6 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.context.ApplicationEventPublisherAware;
-import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
 
@@ -23,7 +22,7 @@ import java.util.ArrayList;
  * @author ksewen
  * @date 2019/5/175:24 PM
  */
-@Component
+//@Component
 public class GatewayPropertiesRefresher implements ApplicationContextAware, ApplicationEventPublisherAware {
 
     private static final Logger logger = LoggerFactory.getLogger(GatewayPropertiesRefresher.class);

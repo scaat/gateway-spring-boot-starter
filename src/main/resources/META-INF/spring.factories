@@ -1,2 +1,2 @@
-org.springframework.cloud.gateway.config.GatewayAutoConfiguration=\
-autoconfigure.com.github.scaat.gateway.GatewayAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.yonghui.gateway.autoconfigure.GatewayAutoConfiguration
