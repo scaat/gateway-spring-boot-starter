@@ -16,7 +16,7 @@
 	<description>Demo project for Spring Boot Starter</description>
 	<properties>
 		<java.version>1.8</java.version>
-		<spring-cloud.version>2021.0.6</spring-cloud.version>
+		<spring-cloud.version>2021.0.7</spring-cloud.version>
 	</properties>
 	<dependencies>
 		<dependency>
