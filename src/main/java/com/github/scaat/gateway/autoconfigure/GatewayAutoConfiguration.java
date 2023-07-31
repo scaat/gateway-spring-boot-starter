@@ -17,4 +17,9 @@ public class GatewayAutoConfiguration {
         return new MyRoutePredicateFactory();
     }
 
+    @Bean
+    LoggerLevelRefresher loggerlevelRefresher(){
+        return new LoggerLevelRefresher();
+    }
+
 }
